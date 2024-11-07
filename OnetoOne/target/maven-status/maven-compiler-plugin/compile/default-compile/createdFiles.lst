@@ -1,0 +1,5 @@
+com\relationship\OnetoOne\Controller\Person01Controller.class
+com\relationship\OnetoOne\Repository\Person01repository.class
+com\relationship\OnetoOne\Models\Person01.class
+com\relationship\OnetoOne\OnetoOneApplication.class
+com\relationship\OnetoOne\Models\Passport01.class
